@@ -94,22 +94,22 @@ void Game::ComposeFrame()
 	}
 	else
 	{
-		if (Poo0.IsPooEaten && Poo1.IsPooEaten && Poo2.IsPooEaten)
+		if (Poo0.IsPooEaten() && Poo1.IsPooEaten() && Poo2.IsPooEaten())
 		{
 			DrawGameOver(358, 268);
 		}
 
 
 		Dude0.Draw( gfx );
-		if (!Poo0.IsPooEaten)
+		if (!Poo0.IsPooEaten())
 		{
 			Poo0.Draw(gfx);
 		}
-		if (!Poo1.IsPooEaten)
+		if (!Poo1.IsPooEaten())
 		{
 			Poo1.Draw(gfx);
 		}
-		if (!Poo2.IsPooEaten)
+		if (!Poo2.IsPooEaten())
 		{
 			Poo2.Draw(gfx);
 		}

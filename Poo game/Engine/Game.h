@@ -43,7 +43,6 @@ private:
 	
 	void DrawGameOver(int x, int y);
 	void DrawTitleScreen(int x, int y);
-	void DrawPoo(int x, int y);
 
 	/********************************/
 private:
