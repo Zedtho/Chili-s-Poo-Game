@@ -1,0 +1,110 @@
+﻿  Game.cpp
+  Poo.cpp
+c:\users\gebruiker\documents\programming\c++ projects\poo game\engine\Poo.h(16): error C2061: syntax error: identifier 'Graphics' (compiling source file Poo.cpp)
+Poo.cpp(57): error C2511: 'void Poo::Draw(Graphics &) const': overloaded member function not found in 'Poo'
+  c:\users\gebruiker\documents\programming\c++ projects\poo game\engine\Poo.h(4): note: see declaration of 'Poo'
+Poo.cpp(58): error C2597: illegal reference to non-static member 'Poo::x'
+Poo.cpp(58): error C3867: 'Poo::x': non-standard syntax; use '&' to create a pointer to member
+Poo.cpp(58): error C2568: '+': unable to resolve function overload
+Poo.cpp(58): error C2597: illegal reference to non-static member 'Poo::y'
+Poo.cpp(58): error C3867: 'Poo::y': non-standard syntax; use '&' to create a pointer to member
+Poo.cpp(58): error C3861: 'PutPixel': identifier not found
+Poo.cpp(59): error C2597: illegal reference to non-static member 'Poo::x'
+Poo.cpp(59): error C3867: 'Poo::x': non-standard syntax; use '&' to create a pointer to member
+Poo.cpp(59): error C2568: '+': unable to resolve function overload
+Poo.cpp(59): error C2597: illegal reference to non-static member 'Poo::y'
+Poo.cpp(59): error C3867: 'Poo::y': non-standard syntax; use '&' to create a pointer to member
+Poo.cpp(59): error C3861: 'PutPixel': identifier not found
+Poo.cpp(60): error C2597: illegal reference to non-static member 'Poo::x'
+Poo.cpp(60): error C3867: 'Poo::x': non-standard syntax; use '&' to create a pointer to member
+Poo.cpp(60): error C2568: '+': unable to resolve function overload
+Poo.cpp(60): error C2597: illegal reference to non-static member 'Poo::y'
+Poo.cpp(60): error C3867: 'Poo::y': non-standard syntax; use '&' to create a pointer to member
+Poo.cpp(60): error C3861: 'PutPixel': identifier not found
+Poo.cpp(61): error C2597: illegal reference to non-static member 'Poo::x'
+Poo.cpp(61): error C3867: 'Poo::x': non-standard syntax; use '&' to create a pointer to member
+Poo.cpp(61): error C2568: '+': unable to resolve function overload
+Poo.cpp(61): error C2597: illegal reference to non-static member 'Poo::y'
+Poo.cpp(61): error C3867: 'Poo::y': non-standard syntax; use '&' to create a pointer to member
+Poo.cpp(61): error C3861: 'PutPixel': identifier not found
+Poo.cpp(62): error C2597: illegal reference to non-static member 'Poo::x'
+Poo.cpp(62): error C3867: 'Poo::x': non-standard syntax; use '&' to create a pointer to member
+Poo.cpp(62): error C2568: '+': unable to resolve function overload
+Poo.cpp(62): error C2597: illegal reference to non-static member 'Poo::y'
+Poo.cpp(62): error C3867: 'Poo::y': non-standard syntax; use '&' to create a pointer to member
+Poo.cpp(62): error C3861: 'PutPixel': identifier not found
+Poo.cpp(63): error C2597: illegal reference to non-static member 'Poo::x'
+Poo.cpp(63): error C3867: 'Poo::x': non-standard syntax; use '&' to create a pointer to member
+Poo.cpp(63): error C2568: '+': unable to resolve function overload
+Poo.cpp(63): error C2597: illegal reference to non-static member 'Poo::y'
+Poo.cpp(63): error C3867: 'Poo::y': non-standard syntax; use '&' to create a pointer to member
+Poo.cpp(63): error C3861: 'PutPixel': identifier not found
+Poo.cpp(64): error C2597: illegal reference to non-static member 'Poo::x'
+Poo.cpp(64): error C3867: 'Poo::x': non-standard syntax; use '&' to create a pointer to member
+Poo.cpp(64): error C2568: '+': unable to resolve function overload
+Poo.cpp(64): error C2597: illegal reference to non-static member 'Poo::y'
+Poo.cpp(64): error C3867: 'Poo::y': non-standard syntax; use '&' to create a pointer to member
+Poo.cpp(64): error C3861: 'PutPixel': identifier not found
+Poo.cpp(65): error C2597: illegal reference to non-static member 'Poo::x'
+Poo.cpp(65): error C3867: 'Poo::x': non-standard syntax; use '&' to create a pointer to member
+Poo.cpp(65): error C2568: '+': unable to resolve function overload
+Poo.cpp(65): error C2597: illegal reference to non-static member 'Poo::y'
+Poo.cpp(65): error C3867: 'Poo::y': non-standard syntax; use '&' to create a pointer to member
+Poo.cpp(65): error C3861: 'PutPixel': identifier not found
+Poo.cpp(66): error C2597: illegal reference to non-static member 'Poo::x'
+Poo.cpp(66): error C3867: 'Poo::x': non-standard syntax; use '&' to create a pointer to member
+Poo.cpp(66): error C2568: '+': unable to resolve function overload
+Poo.cpp(66): error C2597: illegal reference to non-static member 'Poo::y'
+Poo.cpp(66): error C3867: 'Poo::y': non-standard syntax; use '&' to create a pointer to member
+Poo.cpp(66): error C3861: 'PutPixel': identifier not found
+Poo.cpp(67): error C2597: illegal reference to non-static member 'Poo::x'
+Poo.cpp(67): error C3867: 'Poo::x': non-standard syntax; use '&' to create a pointer to member
+Poo.cpp(67): error C2568: '+': unable to resolve function overload
+Poo.cpp(67): error C2597: illegal reference to non-static member 'Poo::y'
+Poo.cpp(67): error C3867: 'Poo::y': non-standard syntax; use '&' to create a pointer to member
+Poo.cpp(67): error C3861: 'PutPixel': identifier not found
+Poo.cpp(68): error C2597: illegal reference to non-static member 'Poo::x'
+Poo.cpp(68): error C3867: 'Poo::x': non-standard syntax; use '&' to create a pointer to member
+Poo.cpp(68): error C2568: '+': unable to resolve function overload
+Poo.cpp(68): error C2597: illegal reference to non-static member 'Poo::y'
+Poo.cpp(68): error C3867: 'Poo::y': non-standard syntax; use '&' to create a pointer to member
+Poo.cpp(68): error C3861: 'PutPixel': identifier not found
+Poo.cpp(69): error C2597: illegal reference to non-static member 'Poo::x'
+Poo.cpp(69): error C3867: 'Poo::x': non-standard syntax; use '&' to create a pointer to member
+Poo.cpp(69): error C2568: '+': unable to resolve function overload
+Poo.cpp(69): error C2597: illegal reference to non-static member 'Poo::y'
+Poo.cpp(69): error C3867: 'Poo::y': non-standard syntax; use '&' to create a pointer to member
+Poo.cpp(69): error C3861: 'PutPixel': identifier not found
+Poo.cpp(70): error C2597: illegal reference to non-static member 'Poo::x'
+Poo.cpp(70): error C3867: 'Poo::x': non-standard syntax; use '&' to create a pointer to member
+Poo.cpp(70): error C2568: '+': unable to resolve function overload
+Poo.cpp(70): error C2597: illegal reference to non-static member 'Poo::y'
+Poo.cpp(70): error C3867: 'Poo::y': non-standard syntax; use '&' to create a pointer to member
+Poo.cpp(70): error C3861: 'PutPixel': identifier not found
+Poo.cpp(71): error C2597: illegal reference to non-static member 'Poo::x'
+Poo.cpp(71): error C3867: 'Poo::x': non-standard syntax; use '&' to create a pointer to member
+Poo.cpp(71): error C2568: '+': unable to resolve function overload
+Poo.cpp(71): error C2597: illegal reference to non-static member 'Poo::y'
+Poo.cpp(71): error C3867: 'Poo::y': non-standard syntax; use '&' to create a pointer to member
+Poo.cpp(71): error C3861: 'PutPixel': identifier not found
+Poo.cpp(72): error C2597: illegal reference to non-static member 'Poo::x'
+Poo.cpp(72): error C3867: 'Poo::x': non-standard syntax; use '&' to create a pointer to member
+Poo.cpp(72): error C2568: '+': unable to resolve function overload
+Poo.cpp(72): error C2597: illegal reference to non-static member 'Poo::y'
+Poo.cpp(72): error C3867: 'Poo::y': non-standard syntax; use '&' to create a pointer to member
+Poo.cpp(72): error C3861: 'PutPixel': identifier not found
+Poo.cpp(73): error C2597: illegal reference to non-static member 'Poo::x'
+Poo.cpp(73): error C3867: 'Poo::x': non-standard syntax; use '&' to create a pointer to member
+Poo.cpp(73): error C2568: '+': unable to resolve function overload
+Poo.cpp(73): error C2597: illegal reference to non-static member 'Poo::y'
+Poo.cpp(73): error C3867: 'Poo::y': non-standard syntax; use '&' to create a pointer to member
+Poo.cpp(73): error C3861: 'PutPixel': identifier not found
+Poo.cpp(74): error C2597: illegal reference to non-static member 'Poo::x'
+Poo.cpp(74): error C3867: 'Poo::x': non-standard syntax; use '&' to create a pointer to member
+Poo.cpp(74): error C2568: '+': unable to resolve function overload
+Poo.cpp(74): fatal error C1003: error count exceeds 100; stopping compilation
+Game.cpp(97): warning C4551: function call missing argument list
+Game.cpp(97): error C3867: 'Poo::IsPooEaten': non-standard syntax; use '&' to create a pointer to member
+Game.cpp(104): error C2276: '!': illegal operation on bound member function expression
+Game.cpp(108): error C2276: '!': illegal operation on bound member function expression
+Game.cpp(112): error C2276: '!': illegal operation on bound member function expression
